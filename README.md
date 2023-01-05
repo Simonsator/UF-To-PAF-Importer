@@ -1,6 +1,9 @@
 # Import Ultimate Friends to Party And Friends SQL Script #
 
-This script imports data from Ultimate Friends to Party And Friends.
+This script imports friend data from Ultimate Friends to Party And Friends.
+
+Only who is friend with whom is imported, not the friend requests, when they where last seen, nor the users user
+settings.
 
 ## Import Steps ##
 
